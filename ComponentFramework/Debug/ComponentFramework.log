@@ -1,0 +1,7 @@
+﻿  Skull.cpp
+D:\Stuff\School work\GraphicsFramework1.2 with trackball\GraphicsFramework1.2 with trackball\ComponentFramework\Vector.h(413,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Stuff\School work\GraphicsFramework1.2 with trackball\GraphicsFramework1.2 with trackball\ComponentFramework\VMath.h(44,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Stuff\School work\GraphicsFramework1.2 with trackball\GraphicsFramework1.2 with trackball\ComponentFramework\VMath.h(49,18): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Stuff\School work\GraphicsFramework1.2 with trackball\GraphicsFramework1.2 with trackball\ComponentFramework\VMath.h(49,55): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Stuff\School work\GraphicsFramework1.2 with trackball\GraphicsFramework1.2 with trackball\ComponentFramework\VMath.h(49,93): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  ComponentFramework.vcxproj -> D:\Stuff\School work\GraphicsFramework1.2 with trackball\GraphicsFramework1.2 with trackball\Debug\ComponentFramework.exe
